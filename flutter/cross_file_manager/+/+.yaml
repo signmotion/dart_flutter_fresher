@@ -1,0 +1,4 @@
+variables:
+  project_id: cross_file_manager
+  project_title: CrossFileManager
+  project_title_for_readme: Cross File Manager
