@@ -1,0 +1,4 @@
+variables:
+  project_id: json_dart
+  project_title: JsonDart
+  project_title_for_readme: JSON Dart
