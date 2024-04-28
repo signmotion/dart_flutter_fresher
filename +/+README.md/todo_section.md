@@ -1,4 +1,4 @@
-## 🕧TODO (perhaps)
+## ✅ TODO (perhaps)
 
 Once you start using the **{{project_title}}**, it will become easy to choose the functionality to contribute. But if you already get everything you need from this package but have some free time, let me write here what I have planned:
 
