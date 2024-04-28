@@ -1,0 +1,4 @@
+variables:
+  project_id: thematic_names
+  project_title: ThematicNames
+  project_title_for_readme: Thematic Unique Name Generator

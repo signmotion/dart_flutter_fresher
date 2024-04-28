@@ -1,0 +1,3 @@
+- Principles and tests for synopses.
+- Example with external own set of names.
+- Names and synopses in other languages.
