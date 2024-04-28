@@ -1,0 +1,4 @@
+variables:
+  project_id: domain_aim
+  project_title: DomainAim
+  project_title_for_readme: Domain Aim
