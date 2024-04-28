@@ -1,0 +1,5 @@
+- Copy folders.
+- All feautures for this package into README.
+- Support Web platform.
+- Examples with filesystem brokers.
+- An example with creating own broker.

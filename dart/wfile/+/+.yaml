@@ -1,0 +1,4 @@
+variables:
+  project_id: wfile
+  project_title: WFile
+  project_title_for_readme: WFile
