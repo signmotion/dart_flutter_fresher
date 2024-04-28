@@ -1,4 +1,4 @@
-## Motivation
+## 🔥 Motivation
 
 Sometimes we want to use nice packages from pub.dev on the CLI or server side.
 But (sometimes) the needed package has dependencies on Flutter...
