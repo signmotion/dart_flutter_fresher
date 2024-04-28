@@ -1,0 +1,4 @@
+variables:
+  project_id: animation_tools
+  project_title: AnimationTools
+  project_title_for_readme: Animation Tools
