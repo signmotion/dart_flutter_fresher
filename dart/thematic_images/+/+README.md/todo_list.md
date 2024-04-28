@@ -1,0 +1,5 @@
+- Notes on the image.
+- Styles of images.
+- Random sizes options.
+- Just a one-filled-color image.
+- Local images with keywords.

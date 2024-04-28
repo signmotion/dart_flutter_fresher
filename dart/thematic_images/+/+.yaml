@@ -1,0 +1,4 @@
+variables:
+  project_id: thematic_images
+  project_title: ThematicImageGenerator
+  project_title_for_readme: Thematic Image Generator
