@@ -1,0 +1,4 @@
+variables:
+  project_id: domain_price
+  project_title: DomainPrice
+  project_title_for_readme: Domain Price
