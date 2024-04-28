@@ -19,7 +19,7 @@ I created `pure_dart_ui` to address this injustice in a single line (see `Usage`
 - `clampDouble`
 - `lerpDouble`
 
-## 🚀Usage
+## 🚀 Usage
 
 Add the package `pure_dart_ui` to `pubspec.yaml` and import the library:
 

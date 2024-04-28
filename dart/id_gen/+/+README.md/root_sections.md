@@ -1,4 +1,4 @@
-## 🚀Usage
+## 🚀 Usage
 
 ### Generate 4 UUIDs
 

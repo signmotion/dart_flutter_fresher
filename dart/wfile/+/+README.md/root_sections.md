@@ -27,7 +27,7 @@ File(p).writeAsBytesSync(bytes);
 
 Thanks [s00prtr00pr](https://reddit.com/user/s00prtr00pr).
 
-## 🚀Usage
+## 🚀 Usage
 
 ### Read Files
 
