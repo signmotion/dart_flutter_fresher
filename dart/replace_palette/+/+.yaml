@@ -1,0 +1,4 @@
+variables:
+  project_id: replace_palette
+  project_title: ReplaceColorPalette
+  project_title_for_readme: Replace Color Palette
