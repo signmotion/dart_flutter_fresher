@@ -1,0 +1,3 @@
+- All feautures for this package into `README`.
+- Enhance a check with <https://lookup.icann.org>.
+- ? A checker with [Domain DA - PA Check](https://rapidapi.com/Glavier/api/domain-da-pa-check').

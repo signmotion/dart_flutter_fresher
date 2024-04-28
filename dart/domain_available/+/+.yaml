@@ -1,0 +1,4 @@
+variables:
+  project_id: domain_available
+  project_title: DomainAvailable
+  project_title_for_readme: Domain Available
