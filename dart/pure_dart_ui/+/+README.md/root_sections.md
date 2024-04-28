@@ -46,7 +46,7 @@ In other words, you can create your own application or use a 3rd-party package w
 const color = Color(0xffa1b2c3);
 ```
 
-## Similar Projects
+## 🔗 Similar Projects
 
 - [universal_io](https://pub.dev/packages/universal_io)
   A cross-platform `dart:io`.
