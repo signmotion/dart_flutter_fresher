@@ -1,4 +1,4 @@
-## 🙋‍♀️🙋‍♂️Welcome
+## 👋 Welcome
 
 If you encounter any problems, feel free to [open an issue](https://github.com/{{owner_id}}/{{project_id}}/issues). If you feel the package is missing a feature, please [raise a ticket](https://github.com/{{owner_id}}/{{project_id}}/issues) on Github and I'll look into it. Requests and suggestions are warmly welcome. Danke!
 
