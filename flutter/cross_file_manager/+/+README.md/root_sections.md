@@ -1,4 +1,4 @@
-## Features
+## 🌟 Features
 
 We can choose with **CrossFileManager** the priority for uploaders yourself. For example, if the file is not in the assets, an attempt will be made to get the file from the cloud.
 
@@ -19,7 +19,7 @@ Able to download files in formats:
 
 [<img src="https://raw.githubusercontent.com/signmotion/cross_file_manager/master/images/request_response.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/cross_file_manager/master/images/request_response.webp)
 
-## Usage
+## 🚀 Usage
 
 ### Create a Manager for App
 

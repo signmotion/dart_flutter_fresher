@@ -5,7 +5,7 @@ But (sometimes) the needed package has dependencies on Flutter...
 
 I created `pure_dart_ui` to address this injustice in a single line (see `Usage` section below).
 
-## Features
+## 🌟 Features
 
 ### Classes independed of the Flutter SDK
 
