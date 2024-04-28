@@ -1,0 +1,4 @@
+variables:
+  project_id: astronomical_measurements
+  project_title: AstronomicalMeasurements
+  project_title_for_readme: Astronomical Measurements
