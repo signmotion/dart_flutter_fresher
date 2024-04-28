@@ -1,0 +1,4 @@
+variables:
+  project_id: pure_dart_ui
+  project_title: PureDartUi
+  project_title_for_readme: Pure Dart UI
