@@ -1,0 +1,4 @@
+variables:
+  project_id: magic_draw
+  project_title: MagicDraw
+  project_title_for_readme: Magic Draw

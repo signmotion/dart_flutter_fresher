@@ -1,0 +1,2 @@
+- Detect a real mana position.
+- Drawing a path.
