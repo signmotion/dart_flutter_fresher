@@ -1,0 +1,4 @@
+variables:
+  project_id: flutter_image_converter
+  project_title: FlutterImageConverter
+  project_title_for_readme: Flutter Image Converter

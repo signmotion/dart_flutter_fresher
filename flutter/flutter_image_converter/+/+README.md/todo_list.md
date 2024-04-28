@@ -1,0 +1,7 @@
+- Explane `Image`, `ImageProvider`, etc. [1](https://stackoverflow.com/a/56431615/963948)
+- Check out the Web platform.
+- Detect formats provided `instantiateImageCodec`.
+- Converters to `File`? `fileBmpUint8ListSync`, `filePngUint8ListSync`... Auto extension.
+- SVG?
+- IconData?
+- Transform images to any formats?
