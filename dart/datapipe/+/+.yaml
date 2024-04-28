@@ -1,0 +1,4 @@
+variables:
+  project_id: datapipe
+  project_title: DataPipe
+  project_title_for_readme: Data Pipe
