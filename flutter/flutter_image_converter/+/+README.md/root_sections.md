@@ -54,7 +54,7 @@ Supports the image providers:
 
 See folders `example` and `test` for more use cases.
 
-## Available Converters
+## 🔄 Available Converters
 
 ```dart
 import 'dart:ui' as ui;
@@ -70,13 +70,13 @@ import 'package:image/image.dart' as image;
 | ImageProvider | `imageProvider` |     |     ✅      |    ✅    |      ✅      |               | ✅        |
 | Uint8List     | `uint8List`     |     |     ✅      |    ✅    |      ✅      |      ✅       |           |
 
-## Screenshots
+## 📸 Screenshots
 
 [<img src="https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/1.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/1.webp)
 [<img src="https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/2.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/2.webp)
 [<img src="https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/3.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/3.webp)
 
-## Thanks
+## 💛 Thanks
 
 While working on projects, I meet people who make the project better with their outsider and professional view. I want to write down their names here..... and I'd be happy to add your name as well.
 
