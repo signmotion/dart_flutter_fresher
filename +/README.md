@@ -1,5 +1,7 @@
 # {{project_title_for_readme}}
 
+{{platforms_sections}}
+
 {{cover_section}}
 
 {{shields_section}}
