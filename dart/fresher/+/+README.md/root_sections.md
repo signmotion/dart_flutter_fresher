@@ -281,10 +281,7 @@ Notice a limitation: all maintained projects must be placed in the same folder a
 
 While working on the project, I meet people who make the project better with their outsider and professional view. I want to write down their names here... and I'd be happy to add your name as well.
 
-⭐ [f3ath](https://reddit.com/user/f3ath)
-
-⭐ [passsy](https://reddit.com/user/passsy)
-
-⭐ [salakarr](https://reddit.com/user/Salakarr)
-
-⭐ [unnghabunga](https://reddit.com/user/unnghabunga)
+- ⭐ [f3ath](https://reddit.com/user/f3ath)
+- ⭐ [passsy](https://reddit.com/user/passsy)
+- ⭐ [salakarr](https://reddit.com/user/Salakarr)
+- ⭐ [unnghabunga](https://reddit.com/user/unnghabunga)
