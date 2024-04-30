@@ -35,8 +35,8 @@ The purpose of the project {{project_title}} is to _"keep packages up to date"_,
 | Keep `CHANGELOG` up to date |  ✅   |         |  ✅   |      ✅      |    ✅    |
 | Keep `README` up to date    |       |   ✅    |       |      ✅      |          |
 | Keep other files up to date |       |   ✅    |       |              |          |
-| 📗 Monorepos                |  ✅   |   ✅    |  ✅   |              |          |
-| 📚 Multirepos               |  ✅   |   ✅    |       |              |          |
+| 📗 Monorepos                |  ✅   |   ✅    |  ✅   |      ✅      |    ✅    |
+| 📚 Multirepos               |  ✅   |   ✅    |       |      ✅      |    ✅    |
 | Publish to pub.dev          |       |         |  ✅   |      ✅      |          |
 | Setting version             |  ✅   |         |  ✅   |              |    ✅    |
 | Upgrade dependencies        |       |   ✅    |  ✅   |              |          |
@@ -100,7 +100,8 @@ Which includes:
 | `dart`    | ![Files for add from Dart SDK base](images/screenshots/files_for_add_from_dart_sdk_base.png)       |
 | `flutter` | ![Files for add from Flutter SDK base](images/screenshots/files_for_add_from_flutter_sdk_base.png) |
 
-Yes, this is SDKs and our maintaned projects.
+Yes, this is a project structure, SDKs, and our maintaned projects.
+All files in the folder `+` will be copied to each maintaned project.
 
 Take a look inside `id_gen` folder:
 
@@ -155,7 +156,7 @@ We can even redefine `owner_website` as:
 
 ```yaml
   ...
-  owner_website: https://{{publisher_id}}
+  owner_website: https://{publisher_id}
   ...
 ```
 
@@ -171,32 +172,7 @@ The values of all variables and files with the same name will be replaced by tho
 
 For example, your can define the contents of `./+/README.md` for all your own projects as follows:
 
-```md
-# {{project_title_for_readme}}
-
-{{cover_section}}
-
-{{shields_section}}
-
-{{description}}
-Feel free to use it in your awesome project.
-
-{{quality_code_shield}}
-
-Share some ❤️ and star repo to support the project.
-
-{{article_call}}
-
-{{root_sections}}
-
-{{whats_new_section}}
-
-{{welcome_section}}
-
-{{todo_section}}
-
-{{created_with}}
-```
+![README file from root base](images/screenshots/readme_md_from_root_base.png)
 
 Notice: The filename is the name of the variable.
 
@@ -208,7 +184,7 @@ I've done this for my own projects, I'm using this for the new packages, and I'm
 
 What is `file_conflict_resolutions` in `+.yaml` file?
 
-The **{{project_title}}** is _invisible_ for all maintananted packages. In the best [SOLID principles](https://en.wikipedia.org/wiki/SOLID))
+The **{{project_title}}** is _invisible_ for all maintananted packages. In the best [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
 Therefore, it must know how to resolve conflicts for files. For example, with a declaration like this:
 
 ```yaml
@@ -258,11 +234,15 @@ Badge for `README` if you want to support **{{project_title}}**:
 
 ### Style 1
 
+[![fresher](https://img.shields.io/badge/{{project_badge}}.svg?style=for-the-badge)](https://github.com/{{owner_id}}/{{project_id}})
+
 ```md
 [![fresher](https://img.shields.io/badge/{{project_badge}}.svg?style=for-the-badge)](https://github.com/{{owner_id}}/{{project_id}})
 ```
 
 ### Style 2
+
+[![fresher](https://img.shields.io/badge/{{project_badge}}.svg)](https://github.com/{{owner_id}}/{{project_id}})
 
 ```md
 [![fresher](https://img.shields.io/badge/{{project_badge}}.svg)](https://github.com/{{owner_id}}/{{project_id}})
@@ -302,6 +282,9 @@ Notice a limitation: all maintained projects must be placed in the same folder a
 While working on the project, I meet people who make the project better with their outsider and professional view. I want to write down their names here... and I'd be happy to add your name as well.
 
 ⭐ [f3ath](https://reddit.com/user/f3ath)
+
 ⭐ [passsy](https://reddit.com/user/passsy)
+
 ⭐ [salakarr](https://reddit.com/user/Salakarr)
+
 ⭐ [unnghabunga](https://reddit.com/user/unnghabunga)
