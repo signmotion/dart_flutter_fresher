@@ -11,7 +11,7 @@ Feel free to use it in your awesome project.
 
 {{quality_code_shield}}
 
-Share some ❤️ and star repo to support the project.
+Share some ❤️ and star repo to support the [{{project_title_for_readme}}](https://github.com/{{owner_id}}/{{project_id}}).
 
 {{article_call}}
 
