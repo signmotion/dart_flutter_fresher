@@ -160,7 +160,7 @@ We can even redefine `owner_website` as:
   ...
 ```
 
-and the final value will be `https://{{publisher_id}}`.
+and the final value will be `https://{{publisher_id}}`. Easy, isn't it?
 
 Just replace it with your own _publisher-website-description_ and get your basic structure for your packages!
 
