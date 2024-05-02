@@ -24,3 +24,5 @@ Share some ❤️ and star repo to support the [{{project_title_for_readme}}](ht
 {{todo_section}}
 
 {{created_with}}
+
+[![fresher](https://img.shields.io/badge/maintained%20with-fresher-darkgreen.svg?style=for-the-badge)](https://github.com/signmotion/fresher)
