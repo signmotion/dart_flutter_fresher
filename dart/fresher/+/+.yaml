@@ -2,5 +2,5 @@ variables:
   project_id: fresher
   project_title: Fresher
   project_title_for_readme: >-
-    Fresher: Keep Your Projects Up to Date
+    Fresher: Keeps Projects Up to Date
   project_badge: maintained%20with-fresher-darkgreen
