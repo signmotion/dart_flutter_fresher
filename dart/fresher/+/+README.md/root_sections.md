@@ -241,8 +241,6 @@ to upgrade only the `id_gen` and `title_widget` projects. Of course, replace wit
 
 I'm sharing [my "base project"](https://github.com/signmotion/dart_flutter_fresher). Just clone it and create your own **base** for your packages.
 
-Notice a limitation: all maintained projects must be placed in the same folder as `{{project_id}}`.
-
 ## 🤝 Who is Using {{project_title}}
 
 When you start using Fresher in **your** projects, let me know and I'd be happy to help you with it.
