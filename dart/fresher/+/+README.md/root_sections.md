@@ -48,7 +48,7 @@ I guess now you will be able to choose the right tool for your needs much faster
 The **{{project_title}}** has significant differences from researched products:
 
 1. **Invisible to maintained projects.**
-   You can update your awesome projects with **{{project_title}}** and then switch to another tool(s) or even drop the tools altogether and not even notice it: **{{project_title}}** doesn't make a single change to the configuration of your projects.
+   You can update your awesome projects with **{{project_title}}** and then switch to another tool(s) or even drop the tools altogether and not even notice it: **{{project_title}}** doesn't make a single change to the configuration of your projects. So if you decide to stop using **{{project_title}}**, you could still manage your projects. But you lose the automation and all the magic 🪄️
 
 2. **Freedom to choose the structure and variables for your projects**.
    Below I'll show you what I chose, but my solution is not the only possible one.
