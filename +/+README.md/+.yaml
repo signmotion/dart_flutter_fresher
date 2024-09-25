@@ -1,3 +1,9 @@
 variables:
   created_with: >-
-    Created [with ❤️](https://syrokomskyi.com "Andrii Syrokomskyi") | Ready for [business 🪙](https://webduet.de "The Modern Planet-Scale Site for Your Ambitions")
+    Created [with ❤️](https://syrokomskyi.com "Andrii Syrokomskyi")
+
+  maintained_using: >-
+    [![fresher](https://img.shields.io/badge/maintained%20using-fresher-darkgreen.svg?style=for-the-badge)](https://github.com/signmotion/fresher "Keeps Projects Up to Date")
+
+  ready_for: >-
+    Ready [for 🪙](https://webduet.de "The Modern Planet-Scale Site for Your Ambitions")
