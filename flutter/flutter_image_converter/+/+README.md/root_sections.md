@@ -1,13 +1,5 @@
 ## 🚀 Usage
 
-### Raw bytes from File to Widget Image
-
-```dart
-File('1.jpg').widgetImage
-```
-
-Can detect [all formats](https://github.com/brendan-duncan/image/blob/main/doc/formats.md) from the package [image](https://github.com/brendan-duncan/image).
-
 ### ImageProvider to UI Image
 
 ```dart
@@ -26,18 +18,6 @@ Image(...).widgetImage
 bytes.widgetImage
 ```
 
-### File to PNG raw bytes
-
-```dart
-File('nature.webp').pngUint8List
-```
-
-### File to BMP raw bytes
-
-```dart
-File('nature.webp').bmpUint8List
-```
-
 ### ImageProvider to PNG raw bytes
 
 ```dart
@@ -51,6 +31,8 @@ Supports the image providers:
 - `MemoryImage`
 - `NetworkImage`
 - any providers from [pub.dev](https://pub.dev/packages?q=image+provider) inherited from `ImageProvider`
+
+Can detect [all formats](https://github.com/brendan-duncan/image/blob/main/doc/formats.md) from the package [image](https://github.com/brendan-duncan/image).
 
 See folders `example` and `test` for more use cases.
 
@@ -80,4 +62,5 @@ import 'package:image/image.dart' as image;
 
 While working on projects, I meet people who make the project better with their outsider and professional view. I want to write down their names here..... and I'd be happy to add your name as well.
 
+⭐ [C Davis aka faithoflifedev](https://github.com/faithoflifedev): [Support web platform](https://github.com/signmotion/flutter_image_converter/pull/1)
 ⭐ [eibaan](https://reddit.com/user/eibaan)
