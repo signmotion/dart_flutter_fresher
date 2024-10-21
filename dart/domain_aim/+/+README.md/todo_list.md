@@ -1,1 +1,2 @@
+- Domain aims from <https://namecheap.com/domains/domain-name-search>.
 - The links to TLDs domain descriptions.
