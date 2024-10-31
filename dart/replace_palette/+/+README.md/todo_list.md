@@ -1,2 +1,2 @@
 - Respect the other colour models.
-- Example for named colors with [UniColorName package](https://github.com/signmotion/uni_color_name).
+- Example for named colors with [UniColorName package](https://github.com/syrokomskyi/uni_color_name).

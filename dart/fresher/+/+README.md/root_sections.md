@@ -138,7 +138,7 @@ variables:
   current_year: 2025
 
   owner_full_name: Andrii Syrokomskyi
-  owner_id: signmotion
+  owner_id: syrokomskyi
   owner_website: https://syrokomskyi.com
 
   publisher_id: syrokomskyi.com
@@ -174,11 +174,11 @@ For example, you can define the contents of `./+/README.md` for all your project
 
 Notice: The filename is the name of the variable.
 
-Running **{{project_title}}** will produce [this result](https://github.com/signmotion/id_gen/blob/master/README.md).
+Running **{{project_title}}** will produce [this result](https://github.com/syrokomskyi/id_gen/blob/master/README.md).
 
 The **base** (template, configuration) of your projects is defined as separate project.
 
-I've done this for my packages, I'm using this for the new projects, and I'm [sharing this solution](https://github.com/signmotion/dart_flutter_fresher) with you. Welcome back from boring hell!
+I've done this for my packages, I'm using this for the new projects, and I'm [sharing this solution](https://github.com/syrokomskyi/dart_flutter_fresher) with you. Welcome back from boring hell!
 
 ### File Conflict Resolutions
 
@@ -239,7 +239,7 @@ cls | dart ../fresher/bin/fresher.dart --projects id_gen,title_widget .
 
 to upgrade only the `id_gen` and `title_widget` projects. Of course, replace with your good project names.
 
-I'm sharing [my "base project"](https://github.com/signmotion/dart_flutter_fresher). Just clone it and create your own **base** for your packages.
+I'm sharing [my "base project"](https://github.com/syrokomskyi/dart_flutter_fresher). Just clone it and create your own **base** for your packages.
 
 ## 🤝 Who is Using {{project_title}}
 

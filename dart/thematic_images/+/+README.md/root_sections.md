@@ -19,4 +19,4 @@ File(file).writeAsBytesSync(bytes);
 
 ```
 
-![Output Castle - Thematic Images](https://raw.githubusercontent.com/signmotion/thematic_images/master/images/example_image.png)
+![Output Castle - Thematic Images](https://raw.githubusercontent.com/syrokomskyi/thematic_images/master/images/example_image.png)

@@ -2,7 +2,7 @@
 
 We can choose with **CrossFileManager** the priority for uploaders yourself. For example, if the file is not in the assets, an attempt will be made to get the file from the cloud.
 
-Can develop own loader for download files from Firebase, Firestore, Amazon AWS, Google Drive, Microsoft Azure Cloud Storage, OneDrive, Dropbox, etc. - any data source can be included in the CrossFileManager. See `class Loader` and [already implemented loaders](https://github.com/signmotion/cross_file_manager/tree/master/lib/src/loaders).
+Can develop own loader for download files from Firebase, Firestore, Amazon AWS, Google Drive, Microsoft Azure Cloud Storage, OneDrive, Dropbox, etc. - any data source can be included in the CrossFileManager. See `class Loader` and [already implemented loaders](https://github.com/syrokomskyi/cross_file_manager/tree/master/lib/src/loaders).
 
 Can retrieve the needed file from an archive. It comes in handy when you need to download thousands of small files.
 
@@ -17,7 +17,7 @@ Able to download files in formats:
 
 ### How it works
 
-[<img src="https://raw.githubusercontent.com/signmotion/cross_file_manager/master/images/request_response.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/cross_file_manager/master/images/request_response.webp)
+[<img src="https://raw.githubusercontent.com/syrokomskyi/cross_file_manager/master/images/request_response.webp" width="600"/>](https://raw.githubusercontent.com/syrokomskyi/cross_file_manager/master/images/request_response.webp)
 
 ## 🚀 Usage
 
@@ -74,4 +74,4 @@ It will return the first file found.
 
 See `example/main.dart` for more use cases:
 
-[<img src="https://raw.githubusercontent.com/signmotion/cross_file_manager/master/images/screenshots/zip_assets_demo.webp" width="600"/>](https://github.com/signmotion/cross_file_manager/tree/master/example)
+[<img src="https://raw.githubusercontent.com/syrokomskyi/cross_file_manager/master/images/screenshots/zip_assets_demo.webp" width="600"/>](https://github.com/syrokomskyi/cross_file_manager/tree/master/example)

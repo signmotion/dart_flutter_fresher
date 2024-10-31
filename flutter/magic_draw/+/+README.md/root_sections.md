@@ -16,4 +16,4 @@ Widget build(BuildContext context) => MaterialApp(
 );
 ```
 
-[<img src="https://raw.githubusercontent.com/signmotion/magic_draw/master/images/screenshots/1.gif" width="600"/>](https://raw.githubusercontent.com/signmotion/magic_draw/master/images/screenshots/1.gif)
+[<img src="https://raw.githubusercontent.com/syrokomskyi/magic_draw/master/images/screenshots/1.gif" width="600"/>](https://raw.githubusercontent.com/syrokomskyi/magic_draw/master/images/screenshots/1.gif)

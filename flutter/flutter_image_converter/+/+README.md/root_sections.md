@@ -54,14 +54,14 @@ import 'package:image/image.dart' as image;
 
 ## 📸 Screenshots
 
-[<img src="https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/1.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/1.webp)
-[<img src="https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/2.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/2.webp)
-[<img src="https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/3.webp" width="600"/>](https://raw.githubusercontent.com/signmotion/flutter_image_converter/master/images/screenshots/3.webp)
+[<img src="https://raw.githubusercontent.com/syrokomskyi/flutter_image_converter/master/images/screenshots/1.webp" width="600"/>](https://raw.githubusercontent.com/syrokomskyi/flutter_image_converter/master/images/screenshots/1.webp)
+[<img src="https://raw.githubusercontent.com/syrokomskyi/flutter_image_converter/master/images/screenshots/2.webp" width="600"/>](https://raw.githubusercontent.com/syrokomskyi/flutter_image_converter/master/images/screenshots/2.webp)
+[<img src="https://raw.githubusercontent.com/syrokomskyi/flutter_image_converter/master/images/screenshots/3.webp" width="600"/>](https://raw.githubusercontent.com/syrokomskyi/flutter_image_converter/master/images/screenshots/3.webp)
 
 ## 💛 Thanks
 
 While working on projects, I meet people who make the project better with their outsider and professional view. I want to write down their names here..... and I'd be happy to add your name as well.
 
-⭐ [C Davis aka faithoflifedev](https://github.com/faithoflifedev): [Support web platform](https://github.com/signmotion/flutter_image_converter/pull/1)
+⭐ [C Davis aka faithoflifedev](https://github.com/faithoflifedev): [Support web platform](https://github.com/syrokomskyi/flutter_image_converter/pull/1)
 
 ⭐ [eibaan](https://reddit.com/user/eibaan)
